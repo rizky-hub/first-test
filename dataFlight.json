@@ -1,7 +1,20 @@
-{
-  "flighNumber" : "QF400",
-  "departurePort" : "MEL",
-  "arrivalPort" : "SYD",
-  "departureTime" : "UTC ISO8601 format 2020-06-10T09:00:23z",
-  "arrivalPort" : "UTC ISO8601 format 2020-06-10T10:25:23z"
-}
+[
+	{
+	  "code" : "QF",
+	  "plane" : "Qantas",
+	  "flighNumber" : "QF400",
+	  "departurePort" : "MEL",
+	  "arrivalPort" : "SYD",
+	  "departureTime" : "UTC ISO8601 format 2020-06-10T09:00:23z",
+	  "arrivalPort" : "UTC ISO8601 format 2020-06-10T10:25:23z"
+	},
+	{
+	  "code" : "EK",
+	  "plane" : "Emirates",
+	  "flighNumber" : "EK400",
+	  "departurePort" : "SYD",
+	  "arrivalPort" : "MEL",
+	  "departureTime" : "UTC ISO8601 format 2020-06-10T09:00:23z",
+	  "arrivalPort" : "UTC ISO8601 format 2020-06-10T10:25:23z"
+	}
+]
